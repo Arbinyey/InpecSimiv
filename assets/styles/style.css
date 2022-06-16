@@ -1,0 +1,31 @@
+body{
+    background-image: url('../img/fondoBodySimiv.png');
+    background-size:cover;
+    padding: 0px;
+    position: relative;
+    background-attachment:fixed;
+    background-repeat: no-repeat;  
+}
+
+.menu1{
+    height: 70px;
+    width: 100%;
+    background-color: antiquewhite;
+    
+}
+.letras1 img{
+    width: 150px;
+    height: 50px;
+    padding: 10px;
+    position:fixed;
+}
+.letras2 img{
+    width: 250px;
+    height: 50px;
+    padding-top: 10px;
+    position: relative;
+    background-repeat: no-repeat;
+    padding-left: 100%;
+
+}
+
